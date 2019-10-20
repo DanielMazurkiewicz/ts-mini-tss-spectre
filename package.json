@@ -1,6 +1,6 @@
 {
   "name": "ts-mini-tss-spectre",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Port of spectre css library for ts-mini",
   "main": "spectre.ts",
   "repository": "https://github.com/DanielMazurkiewicz/ts-mini-tss-spectre.git",

@@ -2119,7 +2119,7 @@ export const btn = tss({
   opacity:    `.95`,
 }, {
   SELECTOR: query(`@%::before`, btn_clear),
-  content:  `"\2715"`,
+  content:  `"\\2715"`,
 });
 
 export const btn_group_block = tss();
