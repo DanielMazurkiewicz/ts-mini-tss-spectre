@@ -8,5 +8,8 @@
   "license": "MIT",
   "devDependencies": {
     "ts-mini": "*"
+  },
+  "scripts": {
+    "bump": "yarn version --patch"
   }
 }
